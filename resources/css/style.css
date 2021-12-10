@@ -1,14 +1,18 @@
 body{
     background-color: black;
+    text-align: center;
+    font-family: verdana, arial, helvetica, sans-serif;
 }
 
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50 px;
-
+    color: white;
+    text-align: center;
 }
 
 a {
     color: aquamarine;
+    text-align: center;
 }
